@@ -1,0 +1,371 @@
+File ID	File Name	Data Category	Data Type	Project ID	Case ID	Sample ID	Sample Type
+e94801de-9bb4-4c7a-9b89-cd535b55056c	C495.TCGA-BA-4076-10A-01D-1434-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-BA-4076	TCGA-BA-4076-10A	Blood Derived Normal
+4193c843-0eed-4760-8bcd-d7847a31dd3e	82f7e30b424552f4e9409946c9d827a4_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-E2-A1LK	TCGA-E2-A1LK-11A	Solid Tissue Normal
+94c324f6-bf5d-4eed-b6cb-8139df8f93b5	b82b9d3628c79a9e0e17bac583201efb_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-E2-A1LG	TCGA-E2-A1LG-11A	Solid Tissue Normal
+befa2dd6-5bb4-4cb2-88e5-6378ef6ed2e0	TCGA-A8-A09I-01A-22W-A050-09_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-A8-A09I	TCGA-A8-A09I-01A	Primary Tumor
+0b01fab3-5b64-4a09-8bdf-bcc9a9c473aa	C495.TCGA-CV-5432-01A-02D-1683-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-CV-5432	TCGA-CV-5432-01A	Primary Tumor
+8324514f-b162-49d0-8dc5-3ed49aa06d2f	C347.TCGA-73-4668-11A-01D-1265-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUAD	TCGA-73-4668	TCGA-73-4668-11A	Solid Tissue Normal
+9b5c4f29-4b98-40e1-85e3-9b8600879992	C509.TCGA-91-6831-11A-02D-1855-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUAD	TCGA-91-6831	TCGA-91-6831-11A	Solid Tissue Normal
+0267ad4e-c237-4528-a097-42d26d5273ce	C509.TCGA-91-6831-01A-11D-1855-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUAD	TCGA-91-6831	TCGA-91-6831-01A	Primary Tumor
+c99b1fb3-17e3-4472-86ee-7fda358a92c2	TCGA-BH-A0DG-11A-43D-A12Q-09_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-BH-A0DG	TCGA-BH-A0DG-11A	Solid Tissue Normal
+dc73f526-76d3-410d-8b36-b16624627fbd	862129d0d824fdef81456426b1581756_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-L5-A8NE	TCGA-L5-A8NE-11A	Solid Tissue Normal
+318f8d60-69d2-40c8-b870-feef51a18909	C440.TCGA-CG-4476-01A-01D-1158-08.8_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-4476	TCGA-CG-4476-01A	Primary Tumor
+90e4bf20-3ce0-4bb6-9fe5-09fbe76f4e48	C282.TCGA-06-0686-01A-01W.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-06-0686	TCGA-06-0686-01A	Primary Tumor
+9c318e65-6a4e-4a59-aa9b-79b2490b0c15	C239.TCGA-10-0938-01A-02W.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-OV	TCGA-10-0938	TCGA-10-0938-01A	Primary Tumor
+912f6d8b-ea21-4693-a3fb-74b9a58a2e8d	C500.TCGA-GC-A3RD-01A-12D-A22Z-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-GC-A3RD	TCGA-GC-A3RD-01A	Primary Tumor
+590de875-1055-4f1f-aec1-ed882945fa2a	C500.TCGA-GV-A3QH-10A-01D-A21Z-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-GV-A3QH	TCGA-GV-A3QH-10A	Blood Derived Normal
+5a76229b-d66d-4db7-b420-b520d19eb882	C494.TCGA-DU-7292-01A-11D-2024-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LGG	TCGA-DU-7292	TCGA-DU-7292-01A	Primary Tumor
+ab099af4-6e11-439e-93af-85f0f04aecc1	C440.TCGA-D7-6526-01A-11D-1800-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-D7-6526	TCGA-D7-6526-01A	Primary Tumor
+eb3fdf3c-7fe7-4ea9-8079-a861c16644ce	C508.TCGA-56-1622-01A-01D-1521-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUSC	TCGA-56-1622	TCGA-56-1622-01A	Primary Tumor
+12192afe-d38b-4819-8710-db65501d5bad	C828.TCGA-D9-A1X3-10A-01D-A199-08.4_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D9-A1X3	TCGA-D9-A1X3-10A	Blood Derived Normal
+307c987b-87e6-4bc1-9756-2af84b992101	C1760.TCGA-VD-A8K9-10A-01D-A39Z-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8K9	TCGA-VD-A8K9-10A	Blood Derived Normal
+a43c3689-0400-40c0-9e50-4cfec8121fcd	TCGA-KL-8341-01A-11D-2310-10_Illumina_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-KICH	TCGA-KL-8341	TCGA-KL-8341-01A	Primary Tumor
+9241b078-df5b-4334-8efe-d8a0bbeb3cf8	TCGA-A2-A04X-01A-21W-A050-09_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-A2-A04X	TCGA-A2-A04X-01A	Primary Tumor
+d1154f35-c650-48c1-811e-4ce0cd27b279	C828.TCGA-EB-A24C-01A-11D-A197-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A24C	TCGA-EB-A24C-01A	Primary Tumor
+6169f6de-a92d-48fe-96af-976f97e08b7c	C828.TCGA-ER-A196-10A-01D-A199-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A196	TCGA-ER-A196-10A	Blood Derived Normal
+252f696a-3204-4db4-b4a5-8aed45445100	C828.TCGA-ER-A19T-10A-01D-A19A-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19T	TCGA-ER-A19T-10A	Blood Derived Normal
+7d483df9-566a-4279-aa48-876c971c6f6c	C828.TCGA-EE-A2MS-10A-01D-A199-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MS	TCGA-EE-A2MS-10A	Blood Derived Normal
+682ae42e-36a4-4857-adc9-14abcbe48634	1daaf3ecc3706506912f4974b743cc6f_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-IG-A97I	TCGA-IG-A97I-10A	Blood Derived Normal
+c0434a5a-7463-47a9-955d-69625f69ec9b	TCGA-A6-3810-10A-01D-A270-10_Illumina_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-COAD	TCGA-A6-3810	TCGA-A6-3810-10A	Blood Derived Normal
+b05a055f-84c6-4c7a-a500-9529f7761104	C495.TCGA-BA-6872-10A-01D-1870-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-BA-6872	TCGA-BA-6872-10A	Blood Derived Normal
+40aa7911-e589-4f96-ba10-e6574c3ecf5b	C509.TCGA-91-6840-10A-01D-1946-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUAD	TCGA-91-6840	TCGA-91-6840-10A	Blood Derived Normal
+db7b2746-b63c-4575-b55c-1d1c48c0e335	C440.TCGA-CG-4301-01A-01D-1158-08.8_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-4301	TCGA-CG-4301-01A	Primary Tumor
+908b7bda-9a74-4878-8f4f-558e1e40939c	C440.TCGA-CG-4449-01A-01D-1158-08.9_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-4449	TCGA-CG-4449-01A	Primary Tumor
+075b2d1c-d2d8-4fa1-807a-592ce81064a4	C484.TCGA-06-2557-10A-01D-1494-08.6_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-06-2557	TCGA-06-2557-10A	Blood Derived Normal
+3c6610b2-262d-4f4c-8740-603710886138	TCGA-66-2756-01A-01W-0877-08_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUSC	TCGA-66-2756	TCGA-66-2756-01A	Primary Tumor
+4f995543-9846-4a49-81e8-2ea0c9cb01ec	C282.TCGA-06-0152-10A-01W.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-06-0152	TCGA-06-0152-10A	Blood Derived Normal
+a1048949-d4bb-4c91-9f63-cce51b7c6756	TCGA-AP-A05D-10A-01W-A027-09_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UCEC	TCGA-AP-A05D	TCGA-AP-A05D-10A	Blood Derived Normal
+952364cc-eccf-49b6-8f9e-eb132ec455b3	C484.TCGA-06-0210-10A-01D-1491-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-06-0210	TCGA-06-0210-10A	Blood Derived Normal
+0b311d6c-4415-442f-8ee7-875ec4c1aac6	C347.TCGA-38-4629-11A-01D-1265-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUAD	TCGA-38-4629	TCGA-38-4629-11A	Solid Tissue Normal
+dbed5da0-f354-41a6-8055-50ffa86aeb26	C500.TCGA-BL-A0C8-01A-11D-A10S-08.8_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-BL-A0C8	TCGA-BL-A0C8-01A	Primary Tumor
+c69a3008-6abd-4aed-afe0-a43dcbe7557c	C500.TCGA-GV-A3JZ-10A-01D-A21A-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-GV-A3JZ	TCGA-GV-A3JZ-10A	Blood Derived Normal
+9110be05-e2f7-49a9-81ed-9d66d6f615a8	C484.TCGA-06-0157-10A-01D-1491-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-06-0157	TCGA-06-0157-10A	Blood Derived Normal
+bf4ef214-6bfa-438a-9e02-fd24ae54654f	24e56cb7a84e12cd0359a0e4bdcf380d_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-LN-A5U5	TCGA-LN-A5U5-10A	Blood Derived Normal
+3294125e-736e-4c44-8d24-f7da28e85811	C282.TCGA-19-2624-01A-01W-0922-08.6_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-19-2624	TCGA-19-2624-01A	Primary Tumor
+8b8ddd5b-8efd-4cf9-8a73-7c66a61ffcd7	bad61c19435ccd017e7bd0b9f1d96186_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UCEC	TCGA-EY-A1GC	TCGA-EY-A1GC-01A	Primary Tumor
+398d5ff3-5c54-48e6-9a8c-79666e777fa7	8da6de8a74582336c554d20467019150_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-L5-A4OJ	TCGA-L5-A4OJ-01A	Primary Tumor
+75645b1d-0ff0-4f46-ac98-9d412948ef17	dcf474e8d82fd0c6949ea8e066eee776_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-IG-A3YB	TCGA-IG-A3YB-01A	Primary Tumor
+526827dd-66db-48a7-ad4c-bbec7f8e1bf5	207873d373021ffc7bab2051cf1590c6_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-V5-A7RC	TCGA-V5-A7RC-10A	Blood Derived Normal
+c0ba2e12-9596-4f87-8caa-6586224066f7	C500.TCGA-GV-A3JV-01A-11D-A21Z-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-GV-A3JV	TCGA-GV-A3JV-01A	Primary Tumor
+b453a2d6-d079-4537-8774-208b452a068f	TCGA-AP-A05D-01A-11W-A027-09_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UCEC	TCGA-AP-A05D	TCGA-AP-A05D-01A	Primary Tumor
+847b3ffa-bdc9-48fe-99f5-9df3f8ea56ab	C494.TCGA-DU-7010-01A-11D-2024-08.1.v1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LGG	TCGA-DU-7010	TCGA-DU-7010-01A	Primary Tumor
+efb39d98-3732-4095-8b31-f3b30fbe98ac	d7ea4f62d07d58a93ca53b49fce0a2d7_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-L5-A4OJ	TCGA-L5-A4OJ-11A	Solid Tissue Normal
+046eaa7e-6212-4a9f-bc59-1cf439f92fe0	45b9cb47ec9bd492a88de73dc235ef20_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-L5-A8NE	TCGA-L5-A8NE-01A	Primary Tumor
+9ddecbc0-ffa6-473d-9f1a-54e612aa5670	8148ac00858027d7fa1e9975c7401f43_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-E2-A1LK	TCGA-E2-A1LK-01A	Primary Tumor
+51fa98a9-ada7-4193-bb8b-f94f197abd82	417617d651267a0ed642b0b69cfed54e_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-AC-A2BK	TCGA-AC-A2BK-01A	Primary Tumor
+7d8af180-9619-4951-bc37-03c2712cd259	TCGA-A2-A0D1-01A-11W-A050-09_IlluminaGA-DNASeq_exome_1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-A2-A0D1	TCGA-A2-A0D1-01A	Primary Tumor
+b3368ee5-3389-40d5-bf8c-c5e950b22048	cb833a9bcdc60cbbafbbca21267d2546_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-GM-A2DF	TCGA-GM-A2DF-01A	Primary Tumor
+7322600d-3bf9-47ef-9b09-f0bb68fea2b8	012c521dad092052efbd6c4a85d86e03_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-L5-A4ON	TCGA-L5-A4ON-01A	Primary Tumor
+ce0bda0f-3724-42fe-be55-d59fbc5b6357	C282.TCGA-06-0152-01A-02W.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-06-0152	TCGA-06-0152-01A	Primary Tumor
+c5825c80-364c-49e3-b6ed-755536501a48	C484.TCGA-06-0152-10A-01D-1492-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-06-0152	TCGA-06-0152-10A	Blood Derived Normal
+2d0d33ca-1a5d-4404-ab24-3527a93d0687	C484.TCGA-06-2557-01A-01D-1494-08.6_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-06-2557	TCGA-06-2557-01A	Primary Tumor
+aad5c256-50b7-4c12-b2d4-0b24c3d640f6	C500.TCGA-FD-A3N6-10A-01D-A21A-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-FD-A3N6	TCGA-FD-A3N6-10A	Blood Derived Normal
+285ce22f-4360-475b-9541-9f4e619623cb	C484.TCGA-19-2624-10A-01D-1495-08.6_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-19-2624	TCGA-19-2624-10A	Blood Derived Normal
+7fa0c982-beb6-4668-a7d0-9a257a92d481	C282.TCGA-06-0686-10A-01W.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-06-0686	TCGA-06-0686-10A	Blood Derived Normal
+1e17cc25-893e-4875-8668-4635a6f1c4fc	C828.TCGA-D3-A2JC-06A-11D-A19A-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A2JC	TCGA-D3-A2JC-06A	Metastatic
+f40c62d3-9ebd-4af8-b605-d0923e23bda3	C828.TCGA-D9-A1X3-01A-11D-A197-08.4_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D9-A1X3	TCGA-D9-A1X3-06A	Metastatic
+51e0dfaf-ff1b-4e0e-8b85-4ed29d5a9615	C347.TCGA-73-4668-01A-01D-1265-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUAD	TCGA-73-4668	TCGA-73-4668-01A	Primary Tumor
+8a2e63d8-da0d-4aaf-8d1f-8e431eb63fb5	23071ebfc6dc8c86876e3e25b986ad72_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-LN-A49V	TCGA-LN-A49V-01A	Primary Tumor
+f81f5304-19c8-4db7-8f91-6dbcb49a334c	C495.TCGA-CV-6959-11A-01D-1912-08.4_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-CV-6959	TCGA-CV-6959-11A	Solid Tissue Normal
+90e7fb2e-3552-4d1d-b3d9-f0473729220b	C440.TCGA-CG-4476-10A-01D-1158-08.8_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-4476	TCGA-CG-4476-10A	Blood Derived Normal
+ff1e1666-5fe1-4f5c-b24b-7c828100a127	C508.TCGA-60-2713-11A-01D-1522-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUSC	TCGA-60-2713	TCGA-60-2713-11A	Solid Tissue Normal
+ed6f3fbb-d62e-4141-a9b6-0d46c7df1e1c	C500.TCGA-DK-A3X2-01A-11D-A22Z-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-DK-A3X2	TCGA-DK-A3X2-01A	Primary Tumor
+43a563f6-4017-4f0b-9aa8-f63f97a3250e	d99c1ee9ad19014d39c1816affecdba4_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A3LY	TCGA-DX-A3LY-10B	Blood Derived Normal
+c274af2a-a462-490e-8abb-22f12d73859b	C239.TCGA-25-2400-10A-01W-0799-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-OV	TCGA-25-2400	TCGA-25-2400-10A	Blood Derived Normal
+6cea0e30-2fdf-4b83-bc02-f900b1098170	C500.TCGA-BL-A0C8-01B-04D-A271-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-BL-A0C8	TCGA-BL-A0C8-01B	Primary Tumor
+e19777d0-f5f3-4391-ab4b-2512cc956879	C500.TCGA-DK-A3IM-10A-01D-A20D-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-DK-A3IM	TCGA-DK-A3IM-10A	Blood Derived Normal
+b762b272-6442-4172-ba39-903f95876484	C500.TCGA-DK-A1AD-01A-11D-A13W-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-DK-A1AD	TCGA-DK-A1AD-01A	Primary Tumor
+8c02adc1-1257-49c0-90ce-1f1e40685bf0	f5728773216337a038588af402af54f7_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A1L0	TCGA-DX-A1L0-10A	Blood Derived Normal
+2f981c1d-f27d-4eb0-a924-b84563fcb603	TCGA-AX-A0IU-01A-11D-A10B-09_IlluminaGA-DNASeq_exome_1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UCEC	TCGA-AX-A0IU	TCGA-AX-A0IU-01A	Primary Tumor
+352c469f-e8ab-4f63-9806-a43706c81407	5d6d056554f9ccf43bf8c11534001d3f_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A3M1	TCGA-DX-A3M1-10A	Blood Derived Normal
+322131c5-5399-4dae-b2ea-b2ab6b81f274	fe8861a8aadce2ddb1d619b7436ce45d_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A3M1	TCGA-DX-A3M1-01A	Primary Tumor
+7d6dae8a-9cf1-4de8-b7c8-087943a0d935	C440.TCGA-BR-4357-01A-01D-1158-08.9_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-BR-4357	TCGA-BR-4357-01A	Primary Tumor
+6a3a16f4-3f68-4391-b86a-45e822e2d8b9	ee4c58b79f71e50acf5f832bc282eaf3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-IG-A3YB	TCGA-IG-A3YB-10A	Blood Derived Normal
+e582e06f-deec-4a47-aa7c-f16b0f2151b0	C529.TCGA-G9-6496-01A-11D-1786-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-PRAD	TCGA-G9-6496	TCGA-G9-6496-01A	Primary Tumor
+30a65dec-f23f-44d0-9241-3e673ee8e50d	C440.TCGA-CG-4300-01A-01D-1158-08.8_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-4300	TCGA-CG-4300-01A	Primary Tumor
+3989dcde-88f1-44dc-a546-a1d0859e928c	TCGA-56-1622-11A-01W-0782-08_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUSC	TCGA-56-1622	TCGA-56-1622-11A	Solid Tissue Normal
+3b0ff2f7-9ce7-45c0-9141-8c2561184e06	C440.TCGA-CG-5734-11A-01D-1600-08.6_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-5734	TCGA-CG-5734-11A	Solid Tissue Normal
+9ac948e5-702e-47dd-8263-4afeba050fa0	C509.TCGA-64-5778-01A-01D-1625-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUAD	TCGA-64-5778	TCGA-64-5778-01A	Primary Tumor
+92f6f49a-468e-4635-99ee-539ab89a0cbb	C440.TCGA-CG-4449-10A-01D-1158-08.8_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-4449	TCGA-CG-4449-10A	Blood Derived Normal
+71d13cdb-edf6-4d4e-8a18-6de9febffa6b	C828.TCGA-ER-A19T-01A-11D-A19A-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19T	TCGA-ER-A19T-01A	Primary Tumor
+5d33fecc-bb93-4c05-9e06-36aaa2b41b4c	C440.TCGA-D7-6519-10A-01D-1800-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-D7-6519	TCGA-D7-6519-10A	Blood Derived Normal
+54a2e632-2bb6-46d0-a953-a3ccc8312fb1	C500.TCGA-BT-A2LD-01A-12D-A20D-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-BT-A2LD	TCGA-BT-A2LD-01A	Primary Tumor
+c03e8048-0fd0-49ba-8775-ac2862001824	C500.TCGA-GC-A3BM-10A-01D-A22Z-08.9_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-GC-A3BM	TCGA-GC-A3BM-10A	Blood Derived Normal
+bde37792-d40f-434d-8369-9c8a1cd5e823	TCGA-A6-3810-10A-01D-1459-10_Illumina_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-COAD	TCGA-A6-3810	TCGA-A6-3810-10A	Blood Derived Normal
+46918edf-44fa-45b1-b877-d2e062dd934c	03dfd4cc30eef7efd437c0faa00fba55_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A1L0	TCGA-DX-A1L0-01A	Primary Tumor
+012fc920-2c94-4596-a937-9e6f6a3fffd8	TCGA-A6-5656-01A-21D-A270-10_Illumina_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-COAD	TCGA-A6-5656	TCGA-A6-5656-01A	Primary Tumor
+d88e50ae-684f-4407-ab2a-873c2ca1bb27	899548bcdc477c68fee7bcebfd3d0df0_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-LN-A49W	TCGA-LN-A49W-01A	Primary Tumor
+1828d84f-1ee4-41a8-be9e-6f4c9ebb6bcb	15e5b2630493edf1759c522be18f2f62_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-LN-A49L	TCGA-LN-A49L-01A	Primary Tumor
+98a6b716-8451-4ce2-9378-4d3ee3093d69	C495.TCGA-CQ-6228-10A-01D-1912-08.4_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-CQ-6228	TCGA-CQ-6228-10A	Blood Derived Normal
+4b55e422-4f9f-41c6-9582-4b119b1c8197	C489.TCGA-B9-4116-01A-01D-1252-08.7_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-KIRP	TCGA-B9-4116	TCGA-B9-4116-01A	Primary Tumor
+78d2802e-ed26-4a05-9750-a98871e07319	C500.TCGA-K4-A3WV-10A-01D-A22Z-08.9_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-K4-A3WV	TCGA-K4-A3WV-10A	Blood Derived Normal
+d7ca4b07-9f99-4ab1-88d7-d2b4b2a91122	C495.TCGA-CN-5367-01A-01D-1434-08.4_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-CN-5367	TCGA-CN-5367-01A	Primary Tumor
+863d9c22-1111-4895-aacc-aa83354459ec	C495.TCGA-CV-6959-01A-11D-1912-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-CV-6959	TCGA-CV-6959-01A	Primary Tumor
+e873488f-c2f7-4638-92bd-dd1c012e7cd3	TCGA-KL-8341-11A-01D-2310-10_Illumina_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-KICH	TCGA-KL-8341	TCGA-KL-8341-11A	Solid Tissue Normal
+5a8b68ba-195f-4f4c-a909-cdac9311226b	TCGA-AO-A124-10A-01D-A10M-09_IlluminaGA-DNASeq_exome_1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-AO-A124	TCGA-AO-A124-10A	Blood Derived Normal
+ed0acd2a-ce7f-4114-8a38-1cf9f79d33c1	0bde9e6a9a4d2c67af693906af619833_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-LN-A9FQ	TCGA-LN-A9FQ-10A	Blood Derived Normal
+14e48042-7aad-4c05-8a2c-0bd65e1c0138	b7e744607a39d364469ca86399aa43bc_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-LN-A5U5	TCGA-LN-A5U5-01A	Primary Tumor
+f3445769-a29e-4597-b65a-97e202d7cfec	TCGA-AO-A0JL-10A-01W-A071-09_HOLD_QC_PENDING_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-AO-A0JL	TCGA-AO-A0JL-10A	Blood Derived Normal
+50616af0-2b5e-450e-be32-39aaa1d22115	C495.TCGA-CV-6441-11A-01D-1683-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-CV-6441	TCGA-CV-6441-11A	Solid Tissue Normal
+84ff9a0d-704b-48b2-922a-c78c81aa76fe	C440.TCGA-D7-6519-01A-11D-1800-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-D7-6519	TCGA-D7-6519-01A	Primary Tumor
+166b70a2-1119-4dc3-bbfe-d8ea9f50e70e	275d32224a6fab8e0ede4d895666f0c9_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A3LW	TCGA-DX-A3LW-10A	Blood Derived Normal
+1c776a46-5f6c-438c-b682-7d5ed2f86749	C494.TCGA-HT-A61B-01A-11D-A29Q-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LGG	TCGA-HT-A61B	TCGA-HT-A61B-01A	Primary Tumor
+0a4c9fe9-2a6f-4595-ac77-4e93692d5421	TCGA-BC-A217-10A-01D-A152-10_Illumina_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LIHC	TCGA-BC-A217	TCGA-BC-A217-10A	Blood Derived Normal
+c0fddc42-3f53-448d-b674-073d03a3d862	C500.TCGA-BL-A0C8-10A-01D-A10S-08.7_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-BL-A0C8	TCGA-BL-A0C8-10A	Blood Derived Normal
+6352a4b9-7794-4744-8f7f-f4d9368c40a8	2ff6282712507bb98ba585ffca0e20a6_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-L5-A43M	TCGA-L5-A43M-01A	Primary Tumor
+5c86435a-7880-4fbc-b196-358eabd24e88	C828.TCGA-D3-A3CC-10A-01D-A19A-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A3CC	TCGA-D3-A3CC-10A	Blood Derived Normal
+44f15604-7de4-40fc-b753-432f43d8f118	C828.TCGA-EE-A2MS-06A-11D-A197-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MS	TCGA-EE-A2MS-06A	Metastatic
+5ca0c54b-b8cc-4cac-a097-08fccd6a7d1e	C828.TCGA-ER-A197-10A-01D-A199-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A197	TCGA-ER-A197-10A	Blood Derived Normal
+b9ed5df9-cf73-4129-bebd-bc0143ddcd00	C495.TCGA-BA-6872-01A-11D-1870-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-BA-6872	TCGA-BA-6872-01A	Primary Tumor
+675fab30-e80a-4d8a-b91f-c7c1f50bbec4	C495.TCGA-CN-4741-01A-01D-1434-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-CN-4741	TCGA-CN-4741-01A	Primary Tumor
+973085e8-b13e-44b9-947e-a23134b41225	f9e52c8581d2e95003c2dd0ff6a3de5f_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-LN-A9FQ	TCGA-LN-A9FQ-01A	Primary Tumor
+b77deeec-5537-49bb-97a8-51184d8bb888	006178ba37345d0e416e1a45e4ef7de4_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-LN-A4A3	TCGA-LN-A4A3-01A	Primary Tumor
+964b182c-c84c-45c8-8af6-d81c5327a46c	C1760.TCGA-VD-A8K9-01A-11D-A39W-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8K9	TCGA-VD-A8K9-01A	Primary Tumor
+dbd56f7b-22c1-4de0-91be-01709e07cb73	C500.TCGA-BT-A20V-11A-11D-A14W-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-BT-A20V	TCGA-BT-A20V-11A	Solid Tissue Normal
+168dbd66-6537-48e5-9181-048c81ab9d28	C500.TCGA-C4-A0F0-10A-01D-A10S-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-C4-A0F0	TCGA-C4-A0F0-10A	Blood Derived Normal
+de79d5ea-86ce-4a6a-b48b-44a169f80ccb	bc6030c814e313b73661452e4dfbb7df_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-A2-A3XX	TCGA-A2-A3XX-01A	Primary Tumor
+8d0a543e-e212-4ba9-b6d7-f5b436358652	f5db12575e685ca664acdd6e74f336ae_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-A7-A13D	TCGA-A7-A13D-01B	Primary Tumor
+a7996974-1a4b-48ef-a488-7e745ef5f94c	C440.TCGA-EQ-5647-10A-01D-1600-08.6_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-EQ-5647	TCGA-EQ-5647-10A	Blood Derived Normal
+2c9ab9cd-4fbe-4ca6-af08-846cbb6df609	C500.TCGA-GV-A3JV-10B-01D-A21Z-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-GV-A3JV	TCGA-GV-A3JV-10B	Blood Derived Normal
+c3a9399a-c7ed-4960-978f-636dad207dac	C500.TCGA-C4-A0F0-01A-12D-A10S-08.6_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-C4-A0F0	TCGA-C4-A0F0-01A	Primary Tumor
+808916df-c028-4838-b3c7-30dde66b225b	C484.TCGA-06-0211-10A-01D-1491-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-06-0211	TCGA-06-0211-10A	Blood Derived Normal
+8ec34067-7ce8-4385-bf02-5d3d7d00345c	C282.TCGA-02-2485-10A-01W-0837-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-02-2485	TCGA-02-2485-10A	Blood Derived Normal
+4ed6d3ba-92e2-40b5-8074-0d46617eea4c	TCGA-A6-5656-01B-02D-A270-10_Illumina_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-COAD	TCGA-A6-5656	TCGA-A6-5656-01B	Primary Tumor
+74fca1ea-2dbe-42d5-8e93-24d65785299f	C484.TCGA-19-2624-01A-01D-1495-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-19-2624	TCGA-19-2624-01A	Primary Tumor
+4fe72957-4c24-4527-908d-13eea7ad8b95	C484.TCGA-06-0211-01B-01D-1491-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-06-0211	TCGA-06-0211-01B	Primary Tumor
+6f6a759e-d999-4850-ab4f-9407675ba5f6	a2e477b1cb500c175b71b05cf0eea72f_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A1L2	TCGA-DX-A1L2-10A	Blood Derived Normal
+cf12417f-cb5e-4b1e-a334-a2f9fc4ae1f4	9f632076448fd46deb85b7ce32d14b11_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A3LU	TCGA-DX-A3LU-01A	Primary Tumor
+4383d222-9f53-4f9b-94d7-25d28ae65986	C495.TCGA-CV-5432-11B-01D-1683-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-CV-5432	TCGA-CV-5432-11B	Solid Tissue Normal
+2f89827c-5ff3-4b95-a7b7-577af52526ff	TCGA-A6-5656-10A-01D-A270-10_Illumina_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-COAD	TCGA-A6-5656	TCGA-A6-5656-10A	Blood Derived Normal
+9783c829-0764-4022-9449-19a3f0bd09e2	TCGA-BH-A0HX-10A-02W-A071-09_HOLD_QC_PENDING_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-BH-A0HX	TCGA-BH-A0HX-10A	Blood Derived Normal
+05496fe4-722d-4d99-b0d8-10db12c8e901	C495.TCGA-CV-6960-10A-01D-2013-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-CV-6960	TCGA-CV-6960-10A	Blood Derived Normal
+322b6721-9f18-49f2-a0ad-e377d9060503	C508.TCGA-60-2711-01A-01D-1522-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUSC	TCGA-60-2711	TCGA-60-2711-01A	Primary Tumor
+1a41da9b-8d44-4ad8-8cc6-67e168f7c5f2	bdb569d68cc8a7da815e90ddba2c928c_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A1KU	TCGA-DX-A1KU-01A	Primary Tumor
+40d3e3f5-ae1d-414b-8b05-bafcc47f5526	C495.TCGA-CV-6959-10A-01D-1912-08.4_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-CV-6959	TCGA-CV-6959-10A	Blood Derived Normal
+718a9ae4-f653-4404-9d2b-8514b6c31914	TCGA-60-2711-11A-01W-0877-08_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUSC	TCGA-60-2711	TCGA-60-2711-11A	Solid Tissue Normal
+36a745a4-0203-4097-b050-bd87f8ab3060	C440.TCGA-D7-A4YX-01A-11D-A25D-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-D7-A4YX	TCGA-D7-A4YX-01A	Primary Tumor
+0b88e986-f23b-4d16-9d38-43ede3cac10e	81eba1c8f488a2f9fc81c6cbca870560_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A23R	TCGA-DX-A23R-10A	Blood Derived Normal
+ec577fad-eaaf-4dd6-99c6-67dca8d40fd1	C440.TCGA-CG-5724-11A-01D-1600-08.6_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-5724	TCGA-CG-5724-11A	Solid Tissue Normal
+32dc5a77-72ba-44a4-ba6d-51fb3e7a4fca	C484.TCGA-26-5135-10A-01D-1486-08.8_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-26-5135	TCGA-26-5135-10A	Blood Derived Normal
+cc5f7d13-3ee1-4cb4-a97a-5f27d93006b6	58c35c870d52fcdd38fd48521363ff34_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-LN-A49Y	TCGA-LN-A49Y-10A	Blood Derived Normal
+0a8c4a75-8085-4230-9414-8da20676611e	cabafc6787bc719ad21a11e6d2a31fdf_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-LN-A4A3	TCGA-LN-A4A3-10A	Blood Derived Normal
+0ce3d5f8-0c34-447d-8e9c-d052dae365cf	C484.TCGA-26-5132-10A-01D-1486-08.8_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-26-5132	TCGA-26-5132-10A	Blood Derived Normal
+90f32988-2344-49ec-b366-96a71d59a7c2	C529.TCGA-G9-6496-10A-01D-1786-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-PRAD	TCGA-G9-6496	TCGA-G9-6496-10A	Blood Derived Normal
+edcc3519-7913-4c4f-92e0-f0e3a247ce35	0da72506eb267683edfcc3c48738174c_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-LN-A4A1	TCGA-LN-A4A1-10A	Blood Derived Normal
+5a6ce7e7-bfb6-4c01-bde8-e84940c3a0e1	C282.TCGA-19-2624-10A-01W-0922-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-19-2624	TCGA-19-2624-10A	Blood Derived Normal
+df30b50f-d515-486d-a200-b26fe117ca2e	C484.TCGA-02-2485-10A-01D-1494-08.6_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-02-2485	TCGA-02-2485-10A	Blood Derived Normal
+0eb2b905-ef7f-467f-a0cd-3cb8820db2a8	C440.TCGA-CG-5727-11A-01D-1600-08.6_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-5727	TCGA-CG-5727-11A	Solid Tissue Normal
+09ff6f48-a4cb-4151-9082-2e3543cec7e7	C347.TCGA-60-2713-11A-01W-0877-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUSC	TCGA-60-2713	TCGA-60-2713-11A	Solid Tissue Normal
+232a32f9-643d-437b-a528-57f42ef68765	C508.TCGA-22-5477-01A-01D-1632-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUSC	TCGA-22-5477	TCGA-22-5477-01A	Primary Tumor
+081e181f-eb01-47b4-b45e-fe0a07563748	C440.TCGA-CG-4301-10A-01D-1158-08.9_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-4301	TCGA-CG-4301-10A	Blood Derived Normal
+55be6b23-61fc-40c1-997e-75b32170cce5	55175a80498a3973c40bc3d757354fea_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A3LU	TCGA-DX-A3LU-10A	Blood Derived Normal
+3bdc5a7c-455d-4b7e-b563-879adbeb220f	e60bc65afe67a1eebcf5dc62f537d011_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A1KU	TCGA-DX-A1KU-10A	Blood Derived Normal
+af0b1c9c-176e-4fd1-ac22-b3521f5407dc	C509.TCGA-05-5715-10A-01D-1625-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUAD	TCGA-05-5715	TCGA-05-5715-10A	Blood Derived Normal
+692db51a-05e8-4ac5-aa8b-4049c07e77c6	C509.TCGA-05-5715-01A-01D-1625-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUAD	TCGA-05-5715	TCGA-05-5715-01A	Primary Tumor
+8057b89b-f64a-4c75-ad71-8ea800bc17cf	C440.TCGA-CG-4475-10A-01D-1158-08.9_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-4475	TCGA-CG-4475-10A	Blood Derived Normal
+35f3cfd8-88aa-456a-b473-78b8765f618a	C440.TCGA-D7-6526-10A-01D-1800-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-D7-6526	TCGA-D7-6526-10A	Blood Derived Normal
+2b576974-9915-4ae0-b9b7-bd47e5a98583	C440.TCGA-BR-4369-01A-01D-1158-08.8_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-BR-4369	TCGA-BR-4369-01A	Primary Tumor
+34a961d0-ae16-4491-9c86-9254e3c2df82	253a2f096384f58cd858ec95f6db0118_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A2J4	TCGA-DX-A2J4-01A	Primary Tumor
+11a34bff-ae08-4afe-abca-28624a705d60	C529.TCGA-G9-6496-11A-01D-1786-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-PRAD	TCGA-G9-6496	TCGA-G9-6496-11A	Solid Tissue Normal
+bb0a7c8e-4581-44d1-9ca6-028f6ad50a64	05c89bd6e300132672a074d339d7ca09_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-LN-A4A1	TCGA-LN-A4A1-01A	Primary Tumor
+26e5e1ad-e336-44a9-8341-b695364770b9	C440.TCGA-CG-4466-10A-01D-1158-08.8_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-4466	TCGA-CG-4466-10A	Blood Derived Normal
+9237e64b-5a77-4b46-81f0-c5594e7aa6a4	C484.TCGA-26-5132-01A-01D-1486-08.7_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-26-5132	TCGA-26-5132-01A	Primary Tumor
+f1424970-2ceb-458e-8fd5-4d12b9d1cf10	d72f942e143d7e93f8ee865f3725a6bd_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A240	TCGA-DX-A240-01A	Primary Tumor
+d264b7db-b716-4c1a-94d7-62ae54a35e41	93b8cf5a39691ec2eee1ac8f88f529bb_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A1KW	TCGA-DX-A1KW-01A	Primary Tumor
+9fba3f9b-82d0-4fa9-8647-59d30b640735	45efe1b1ffea7c97d26ce5effae9f4c0_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-X2-A95T	TCGA-X2-A95T-10A	Blood Derived Normal
+9f4aeeed-4084-49f8-970c-32f29ef9e7a8	2acc4b135632c0c2a100465bb809d8e5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UCEC	TCGA-AX-A2H5	TCGA-AX-A2H5-11A	Solid Tissue Normal
+53d3380d-1bf4-43de-aa77-c69d647d1d62	4e5db79b84a57383dcfa583f5f3b9534_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A3U5	TCGA-DX-A3U5-01A	Primary Tumor
+534f225c-bf19-45d8-9c75-8ec69446c715	f3df3dfec9fe7f200d6aa997486f3ac3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A1L3	TCGA-DX-A1L3-10A	Blood Derived Normal
+1c106881-322f-4187-bb03-4ed257e49528	a2c282017b926e926c997717e2e47e11_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A3LY	TCGA-DX-A3LY-01B	Primary Tumor
+53ec1c28-c750-44f8-bf11-ee486cb28dc9	C495.TCGA-CV-6960-11A-01D-2012-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-CV-6960	TCGA-CV-6960-11A	Solid Tissue Normal
+ee047436-c6a3-431c-aaef-90af2e3e01c4	C500.TCGA-BT-A2LD-10A-01D-A20D-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-BT-A2LD	TCGA-BT-A2LD-10A	Blood Derived Normal
+194910d4-70dd-4c5e-b896-487c9ea52e5e	C500.TCGA-GV-A3JZ-01A-11D-A21A-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-GV-A3JZ	TCGA-GV-A3JZ-01A	Primary Tumor
+765cbc4a-fe9c-481c-a6dd-f21a22f1fa85	C495.TCGA-CV-5432-10A-01D-1870-08.4_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-CV-5432	TCGA-CV-5432-10A	Blood Derived Normal
+0043d981-3c6b-463f-b512-ab1d076d3e62	b40998d4778f18ed80d6dd8bff0eb761_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-A2-A3XX	TCGA-A2-A3XX-10A	Blood Derived Normal
+0c2488aa-6629-41a2-b511-0711efd6db0f	C828.TCGA-FS-A1ZE-10A-01D-A199-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZE	TCGA-FS-A1ZE-10A	Blood Derived Normal
+552569ea-4679-4f39-9ca5-47159c3648a2	C828.TCGA-ER-A196-01A-11D-A197-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A196	TCGA-ER-A196-01A	Primary Tumor
+cc467e6e-aa1b-4872-9433-c358be10c631	C828.TCGA-D3-A2J6-06A-11D-A19A-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A2J6	TCGA-D3-A2J6-06A	Metastatic
+cdee2f26-31e1-481c-8654-f23f058306a6	C828.TCGA-EB-A24C-10A-01D-A199-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A24C	TCGA-EB-A24C-10A	Blood Derived Normal
+111da595-1598-463d-a88c-093e79786a6a	C495.TCGA-CN-5367-10A-01D-1434-08.4_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-CN-5367	TCGA-CN-5367-10A	Blood Derived Normal
+20745d87-d0f3-4827-89d2-90a06732af5f	958203c606c859ce22974914a06e1742_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A1L2	TCGA-DX-A1L2-01A	Primary Tumor
+efaf4a9c-e76e-40ed-bf7b-b709de85325e	C500.TCGA-K4-A3WV-01A-11D-A22Z-08.7_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-K4-A3WV	TCGA-K4-A3WV-01A	Primary Tumor
+4c3da946-ef4e-4bf3-85fc-57c6fefb9d4c	C500.TCGA-DK-A1AD-10A-01D-A13W-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-DK-A1AD	TCGA-DK-A1AD-10A	Blood Derived Normal
+c62c512b-764d-4edb-9d10-2e420dccc400	53815eb237c586e942efd21bb5c6938a_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A1KW	TCGA-DX-A1KW-10A	Blood Derived Normal
+7bd5e2e7-26dc-4619-8a79-80001f090ea8	3f4343c8b0241d1eddb40735c8fac6b4_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-IG-A3I8	TCGA-IG-A3I8-01A	Primary Tumor
+fddfce04-6575-4762-a638-e444afebcc5f	C509.TCGA-50-6597-01A-11D-1855-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUAD	TCGA-50-6597	TCGA-50-6597-01A	Primary Tumor
+e9a06274-2aa6-4913-95d5-417953a76944	C440.TCGA-CG-4444-01A-01D-1158-08.8_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-4444	TCGA-CG-4444-01A	Primary Tumor
+8676ae4a-9e9e-4e86-8ac3-33df2a69cfde	C440.TCGA-EQ-5647-11A-01D-1600-08.6_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-EQ-5647	TCGA-EQ-5647-11A	Solid Tissue Normal
+1553e374-e9f9-479a-abc9-f900064d8306	C440.TCGA-CD-5800-01A-11D-1600-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CD-5800	TCGA-CD-5800-01A	Primary Tumor
+ab75395f-3975-4dbd-8fb4-3f27580e8d2d	C509.TCGA-64-5779-01A-01D-1625-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUAD	TCGA-64-5779	TCGA-64-5779-01A	Primary Tumor
+8243bf13-7ef3-452a-a909-d4d213fd6b5b	C662.TCGA-50-5944-10A-01D-1753-08.4_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUAD	TCGA-50-5944	TCGA-50-5944-10A	Blood Derived Normal
+ce8d3e52-6587-467f-bcc5-6b758fe9b32b	5f27fad8fbbfe18aa1f44f313dac4980_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-L7-A6VZ	TCGA-L7-A6VZ-10A	Blood Derived Normal
+4179bb1a-b4d2-4650-b4ef-3cd39c1a3e77	64092dd35faf5402a2b3ae86f4624460_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-LN-A49W	TCGA-LN-A49W-10A	Blood Derived Normal
+774fb969-8ac5-42c6-b9b1-15a6ec6fedfd	7d644e77ecef504de1033725019207dc_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-V5-A7RC	TCGA-V5-A7RC-01B	Primary Tumor
+4093b5da-86bf-4fdc-b7a7-006f23f13ad8	0c72df15e9120fe1365fc06ba09da5fa_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-LN-A4A8	TCGA-LN-A4A8-10A	Blood Derived Normal
+6d9c4363-501a-406b-a427-057d6d48452d	C828.TCGA-D3-A3C3-10A-01D-A19A-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A3C3	TCGA-D3-A3C3-10A	Blood Derived Normal
+a92e3c69-078e-41f3-96f3-7f8e951c9a32	0d3f6680cef818e78692fa5469f1d466_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UCEC	TCGA-D1-A1O0	TCGA-D1-A1O0-10A	Blood Derived Normal
+4091e55a-4280-4237-8475-5304a4930b67	C500.TCGA-K4-A3WV-11A-21D-A22Z-08.9_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-K4-A3WV	TCGA-K4-A3WV-11A	Solid Tissue Normal
+0f98a9e2-5b1e-4960-bee4-8d70e4de779f	C500.TCGA-BL-A0C8-01A-11D-A271-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-BL-A0C8	TCGA-BL-A0C8-01A	Primary Tumor
+9cacc7b0-782d-4065-8355-2a141bac0610	C484.TCGA-06-0686-01A-01D-1492-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-06-0686	TCGA-06-0686-01A	Primary Tumor
+868782c4-c8f8-4d4e-bda5-2b059898769d	C495.TCGA-CN-4741-10A-01D-1434-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-CN-4741	TCGA-CN-4741-10A	Blood Derived Normal
+c8b0fe44-7238-4239-8ddf-2bf86ed12928	TCGA-BH-A0HB-10A-01W-A071-09_HOLD_QC_PENDING_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-BH-A0HB	TCGA-BH-A0HB-10A	Blood Derived Normal
+40e9a349-1cf8-4e67-82d4-1d04bfa89ed8	C500.TCGA-GC-A3BM-11A-11D-A22Z-08.9_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-GC-A3BM	TCGA-GC-A3BM-11A	Solid Tissue Normal
+721e2f71-60ae-4d63-9f05-113bce56c672	TCGA-BH-A0DG-01A-21D-A12Q-09_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-BH-A0DG	TCGA-BH-A0DG-01A	Primary Tumor
+faf18ebf-a22b-41bd-9952-a2bed0480b07	TCGA-A8-A07I-10A-01W-A021-09_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-A8-A07I	TCGA-A8-A07I-10A	Blood Derived Normal
+135e488d-b9e4-41f6-af52-a987aacdf63e	a23f8a5b8e14697d272a9926c710801b_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-V5-A7RC	TCGA-V5-A7RC-06A	Metastatic
+a2a64af5-abbf-4439-8a3f-3afbf863b295	c9abe8a29e484b715a92ecf2d1f9b6b6_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-LN-A49L	TCGA-LN-A49L-10A	Blood Derived Normal
+fbb58aea-eb0c-45c0-93ca-0822bb228072	TCGA-AO-A124-01A-11D-A10M-09_IlluminaGA-DNASeq_exome_1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-AO-A124	TCGA-AO-A124-01A	Primary Tumor
+7e9f423c-8fb6-4f58-8dea-298d0c0ea141	C440.TCGA-BR-4369-11A-01D-1158-08.8_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-BR-4369	TCGA-BR-4369-11A	Solid Tissue Normal
+8bd198ff-b28a-4cd6-93ae-65acaad32d17	C440.TCGA-CG-5724-01A-11D-1600-08.6_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-5724	TCGA-CG-5724-01A	Primary Tumor
+b3809e2f-66e5-472f-9a95-f2062959698c	C508.TCGA-60-2711-11A-01D-1522-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUSC	TCGA-60-2711	TCGA-60-2711-11A	Solid Tissue Normal
+c94ddbef-f960-4e62-b359-97fc65464f4b	C440.TCGA-CG-4475-01A-01D-1158-08.9_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-4475	TCGA-CG-4475-01A	Primary Tumor
+06d01299-71e4-4c32-a272-56c8e7c88d2b	C484.TCGA-02-2485-01A-01D-1494-08.6_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-02-2485	TCGA-02-2485-01A	Primary Tumor
+cc4feaab-8cd9-4369-a05f-5a1194c4ba5f	d5de5442cabd3a7fdb89cf4293448bda_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UCEC	TCGA-D1-A1O0	TCGA-D1-A1O0-01A	Primary Tumor
+65882f9c-8519-4a97-8164-75727679c4a1	C440.TCGA-BR-4183-11A-01D-1126-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-BR-4183	TCGA-BR-4183-11A	Solid Tissue Normal
+a8dfecc1-3f53-46a8-a1d1-88343340ed76	C440.TCGA-EQ-5647-01A-01D-1600-08.6_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-EQ-5647	TCGA-EQ-5647-01A	Primary Tumor
+8761704b-8b70-4b90-aa39-d28bada7b4e7	41526ca8484c3ecaa8d4daf699f423ee_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-WP-A9GB	TCGA-WP-A9GB-01A	Primary Tumor
+d100ff8d-6e7f-457a-a41c-2b70c39c6dcf	C484.TCGA-06-0210-02A-01D-2280-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-06-0210	TCGA-06-0210-02A	Recurrent Tumor
+c2e0c83e-bfc9-4fde-ab93-88bfcf70b039	C509.TCGA-64-5779-10A-01D-1625-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUAD	TCGA-64-5779	TCGA-64-5779-10A	Blood Derived Normal
+ec00dbe6-5d15-4b1c-930f-10e426a775ee	C662.TCGA-50-5944-01A-11D-1753-08.4_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUAD	TCGA-50-5944	TCGA-50-5944-01A	Primary Tumor
+973fcbe9-5cf2-4679-b206-161b8fc62fe6	b05d5bab0f5a14be08b4cf71a3da1c41_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A3LS	TCGA-DX-A3LS-10A	Blood Derived Normal
+91563c63-5dd0-4043-8ec0-0a0bc7bac0da	C494.TCGA-DU-6403-10A-01D-1705-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LGG	TCGA-DU-6403	TCGA-DU-6403-10A	Blood Derived Normal
+bd130a49-0fad-4a84-9221-8b888365e259	C494.TCGA-DU-7292-10A-01D-2024-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LGG	TCGA-DU-7292	TCGA-DU-7292-10A	Blood Derived Normal
+0e889b37-9e68-4359-b3eb-2e37ae623372	e8d43fdd553a968431de51a7537fc872_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-LN-A4A8	TCGA-LN-A4A8-01A	Primary Tumor
+821d7a33-77fb-496e-be9c-0552b12cbbee	TCGA-A7-A0D9-01A-31W-A071-09_HOLD_QC_PENDING_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-A7-A0D9	TCGA-A7-A0D9-01A	Primary Tumor
+bf3d62cb-f3a6-45d6-b9c3-416e58f1d319	TCGA-BH-A18U-11A-23D-A12B-09_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-BH-A18U	TCGA-BH-A18U-11A	Solid Tissue Normal
+d2b612d5-2582-4009-98f3-84134d6cdd29	TCGA-A8-A07I-01A-11W-A019-09_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-A8-A07I	TCGA-A8-A07I-01A	Primary Tumor
+21cc2119-b67f-44e3-ac48-6157715d6a89	TCGA-BC-A217-01A-11D-A152-10_Illumina_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LIHC	TCGA-BC-A217	TCGA-BC-A217-01A	Primary Tumor
+a743cc2c-477d-44b7-b749-842a8de022bf	TCGA-A6-3810-01B-04D-A270-10_Illumina_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-COAD	TCGA-A6-3810	TCGA-A6-3810-01B	Primary Tumor
+7deca468-89d5-46f4-afe3-6f94d33b3f99	C495.TCGA-CQ-6228-01A-11D-1912-08.4_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-CQ-6228	TCGA-CQ-6228-01A	Primary Tumor
+1a53e6ff-d9a6-4687-8b66-8eed24084483	TCGA-C8-A130-01A-31D-A10Y-09_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-C8-A130	TCGA-C8-A130-01A	Primary Tumor
+a80933e5-3b07-41dc-b7f0-499d63c071a9	TCGA-BH-A18U-01A-21D-A12B-09_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-BH-A18U	TCGA-BH-A18U-01A	Primary Tumor
+912805d8-f698-4526-b64e-c62d240179d4	C440.TCGA-BR-6458-11A-01D-1800-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-BR-6458	TCGA-BR-6458-11A	Solid Tissue Normal
+22b93a0f-5b23-450c-a423-e3acabf35c27	C440.TCGA-CG-5725-01A-11D-1600-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-5725	TCGA-CG-5725-01A	Primary Tumor
+09fe30e3-c6ba-4b1b-93f1-ba34eabab086	20e8a3e70f699221fcedcb31818dd250_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-CESC	TCGA-IR-A3LA	TCGA-IR-A3LA-01A	Primary Tumor
+931fb73c-a61e-4bcb-ac34-0aa912695894	TCGA-A6-5656-10A-01D-1835-10_hg19_Illumina_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-COAD	TCGA-A6-5656	TCGA-A6-5656-10A	Blood Derived Normal
+baee9d88-d188-471c-bde4-fb5435f27834	TCGA-A2-A04X-10A-01W-A055-09_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-A2-A04X	TCGA-A2-A04X-10A	Blood Derived Normal
+f9a2b377-a7c8-4b13-bf42-eea80cd46a8f	C494.TCGA-HT-A61B-10A-01D-A29Q-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LGG	TCGA-HT-A61B	TCGA-HT-A61B-10A	Blood Derived Normal
+b400eb0f-8597-41df-a48e-b6f9941b4fd0	C347.TCGA-05-4422-01A-01D-1265-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUAD	TCGA-05-4422	TCGA-05-4422-01A	Primary Tumor
+44c2851d-42a5-4117-af47-c5c62c54d524	C509.TCGA-64-5778-10A-01D-1625-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUAD	TCGA-64-5778	TCGA-64-5778-10A	Blood Derived Normal
+868552ef-e1e6-4758-8f74-a1899cf89fad	C347.TCGA-05-4422-10A-01D-1265-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUAD	TCGA-05-4422	TCGA-05-4422-10A	Blood Derived Normal
+1686d945-3487-40be-8c5a-14ea6aa4c709	C239.TCGA-61-2000-11A-01W-0722-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-OV	TCGA-61-2000	TCGA-61-2000-11A	Solid Tissue Normal
+711f741e-0316-4375-8ffe-84c6dae410d4	C484.TCGA-26-5135-01A-01D-1486-08.7_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-26-5135	TCGA-26-5135-01A	Primary Tumor
+77854ae0-7f6e-4e5c-ad10-0bf75f8c73fc	159ae8345cc258be5ca3704b351803ca_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A23R	TCGA-DX-A23R-01A	Primary Tumor
+2c61cf9a-1da9-4a0c-bfec-b9911fde4be6	36d7f60729fc67b42c1bb2635d91e90b_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A1L3	TCGA-DX-A1L3-01A	Primary Tumor
+2aa43c85-4825-437a-8b58-c0daee00a0bb	TCGA-AX-A0IU-10A-01D-A10B-09_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UCEC	TCGA-AX-A0IU	TCGA-AX-A0IU-10A	Blood Derived Normal
+ab4384a3-f00b-429b-b7ce-b0eb83bf7658	C508.TCGA-66-2756-11A-01D-1522-08.6_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUSC	TCGA-66-2756	TCGA-66-2756-11A	Solid Tissue Normal
+9769ac68-caa9-44ca-9b6e-73615cac009c	C508.TCGA-43-3394-11A-01D-1553-08.7_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUSC	TCGA-43-3394	TCGA-43-3394-11A	Solid Tissue Normal
+001a4ac5-941f-464f-8f1a-e5f263fc00f0	C440.TCGA-CG-4466-01A-01D-1158-08.8_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-4466	TCGA-CG-4466-01A	Primary Tumor
+914b1a80-2fcd-440b-a260-be6241d63783	C508.TCGA-66-2756-01A-01D-1522-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUSC	TCGA-66-2756	TCGA-66-2756-01A	Primary Tumor
+84e2fa1f-567e-4c14-90cc-f260d6b139fe	C440.TCGA-CG-4440-10A-01D-1158-08.7_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-4440	TCGA-CG-4440-10A	Blood Derived Normal
+528dbe62-4a2f-41ee-b1f6-a9ea6122367f	C440.TCGA-BR-6458-10A-01D-1800-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-BR-6458	TCGA-BR-6458-10A	Blood Derived Normal
+c10da9b0-a70a-4962-95b0-d3454e7e397e	TCGA-A7-A0D9-10A-01W-A071-09_HOLD_QC_PENDING_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-A7-A0D9	TCGA-A7-A0D9-10A	Blood Derived Normal
+8f89b0f5-a407-4bbe-be89-b5170719f03d	338ab5c18a97b0c377bac81be960ffdb_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-LN-A49Y	TCGA-LN-A49Y-01A	Primary Tumor
+dda70534-0d4d-4c30-9c6a-fb3c39396fb0	TCGA-A7-A0D9-11A-53W-A100-09_HOLD_QC_PENDING_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-A7-A0D9	TCGA-A7-A0D9-11A	Solid Tissue Normal
+0ab0d12b-86c9-4bee-84c6-73e71b110bab	TCGA-E2-A14X-01A-11D-A10Y-09_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-E2-A14X	TCGA-E2-A14X-01A	Primary Tumor
+646b2c00-fc3d-4ed5-8bb2-b831f45d38c2	705a819982599a90d6902a8567e40434_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-AC-A2BK	TCGA-AC-A2BK-11A	Solid Tissue Normal
+4c582e08-dd51-4481-b221-8533341dca58	TCGA-B6-A0RG-10A-01W-A071-09_HOLD_QC_PENDING_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-B6-A0RG	TCGA-B6-A0RG-10A	Blood Derived Normal
+d67e00bb-d28e-4caa-b1a7-d65f94717a56	TCGA-AN-A0XR-10A-01D-A117-09_IlluminaGA-DNASeq_exome_1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-AN-A0XR	TCGA-AN-A0XR-10A	Blood Derived Normal
+a8c6d642-b2a8-49d3-9e81-1d9c39624c49	36329e007558820988c50246b14eb40c_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-GM-A2DF	TCGA-GM-A2DF-10C	Blood Derived Normal
+285827c5-1eed-4449-b4a3-f1fbc169ed8c	14782c9d8f997e370916e8b4bcf82369_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-L5-A4ON	TCGA-L5-A4ON-11A	Solid Tissue Normal
+a4c45635-34fc-4fb0-84b8-3ce67e66e96f	6b4821948a23f54ee029270a954fb7d3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-L5-A4OH	TCGA-L5-A4OH-01A	Primary Tumor
+bee92671-bdc9-4a57-902c-18abdf34abd3	e1d4c562f38cea48e6371a6edd9835b2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-L7-A6VZ	TCGA-L7-A6VZ-01A	Primary Tumor
+f5b1a829-9d00-4a0b-a138-d6c54c1448fd	3d21dac64c46a7a4dd0699e086fbb8fc_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-LN-A49V	TCGA-LN-A49V-10A	Blood Derived Normal
+659a5b51-9ccf-4842-afa2-0522e0b4ba2f	10ab9d8c6cdccb5b515f26bf50453312_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-L5-A43M	TCGA-L5-A43M-11A	Solid Tissue Normal
+097253d3-b928-4250-87c9-34db5db18d35	C500.TCGA-DK-A1A3-01A-11D-A13W-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-DK-A1A3	TCGA-DK-A1A3-01A	Primary Tumor
+963aabdc-9226-43e9-872f-77b72f8f148d	C500.TCGA-GV-A3QH-01A-11D-A21Z-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-GV-A3QH	TCGA-GV-A3QH-01A	Primary Tumor
+d422d091-91c4-404b-8dc1-ee7f0c0e1ee3	TCGA-A2-A0D1-10A-01W-A055-09_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-A2-A0D1	TCGA-A2-A0D1-10A	Blood Derived Normal
+42fb6fea-eea0-45bd-834a-b9b4c6c4163a	TCGA-A8-A09I-10A-01W-A055-09_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-A8-A09I	TCGA-A8-A09I-10A	Blood Derived Normal
+40bc56bf-5dfd-44df-b8a8-ad1a576621a6	04ce584b3adfd3e8e64618b271cb91a8_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-A7-A13D	TCGA-A7-A13D-10A	Blood Derived Normal
+66b46460-6a74-459c-9984-32376db27c0f	C440.TCGA-CG-4440-01A-01D-1158-08.8_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-4440	TCGA-CG-4440-01A	Primary Tumor
+2226762d-8c92-4333-82c9-40ffe56a0c74	C440.TCGA-BR-4367-11A-01D-1158-08.7_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-BR-4367	TCGA-BR-4367-11A	Solid Tissue Normal
+d3096df0-c28d-4ecf-8548-b53865e07523	C440.TCGA-CD-5800-10A-01D-1600-08.9_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CD-5800	TCGA-CD-5800-10A	Blood Derived Normal
+86597397-0c79-409f-b03c-ea4ba1732dfb	C484.TCGA-06-0210-01B-01D-1491-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-06-0210	TCGA-06-0210-01B	Primary Tumor
+9e9effbc-4725-4e3c-86ef-3c5e37a08f86	C508.TCGA-60-2713-01A-01D-1522-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUSC	TCGA-60-2713	TCGA-60-2713-01A	Primary Tumor
+9edfae14-26a7-4b15-adc8-6acbb882e1d3	C440.TCGA-D7-A4YX-10A-01D-A25E-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-D7-A4YX	TCGA-D7-A4YX-10A	Blood Derived Normal
+14edca3a-8fdb-4d14-ac42-e5510e7e5294	C489.TCGA-B9-4116-10A-01D-1252-08.7_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-KIRP	TCGA-B9-4116	TCGA-B9-4116-10A	Blood Derived Normal
+f5781dbf-1ec5-4ef9-aa97-cf889f6801a3	C500.TCGA-GC-A3BM-01A-11D-A22Z-08.7_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-GC-A3BM	TCGA-GC-A3BM-01A	Primary Tumor
+23e7fece-a065-4d58-93a8-4de78652183e	c9303df692f81125e8ec3b7b8fa5d723_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A3LW	TCGA-DX-A3LW-01A	Primary Tumor
+5bb9b973-f9a4-4654-8ef2-78d2b15b6a46	C484.TCGA-06-0211-02A-02D-2280-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-06-0211	TCGA-06-0211-02A	Recurrent Tumor
+2d6f38eb-f03a-4718-aee2-ee0656b9d51c	C828.TCGA-EE-A29V-06A-12D-A197-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29V	TCGA-EE-A29V-06A	Metastatic
+a0ab5782-631a-460a-802e-07aded85ea78	C828.TCGA-D3-A3CC-06A-11D-A19A-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A3CC	TCGA-D3-A3CC-06A	Metastatic
+61f0490c-f2fe-419d-994c-afe87502d281	C495.TCGA-CV-7434-11A-01D-2129-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-CV-7434	TCGA-CV-7434-11A	Solid Tissue Normal
+cd138d0c-830e-455c-b44b-8bc63e7cc6f1	C495.TCGA-CV-6960-01A-41D-2012-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-CV-6960	TCGA-CV-6960-01A	Primary Tumor
+719fc310-5ff5-4493-a421-1533583baca1	bbd69acf9b1264fe691d74ca599cdac7_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A3LS	TCGA-DX-A3LS-01A	Primary Tumor
+a0916bfd-7e40-4d87-874c-3606c5690b15	C282.TCGA-02-2485-01A-01W-0837-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-02-2485	TCGA-02-2485-01A	Primary Tumor
+492b84ee-c167-4a63-8dc7-0c5b43530094	TCGA-D1-A169-01A-11D-A12J-09_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UCEC	TCGA-D1-A169	TCGA-D1-A169-01A	Primary Tumor
+94a6b7e1-0d31-485c-9a61-dbfd6a1383e7	C495.TCGA-CV-7434-01A-11D-2129-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-CV-7434	TCGA-CV-7434-01A	Primary Tumor
+b69de7de-e6af-4da0-84f6-37c4b868e11c	C495.TCGA-CV-7434-10A-01D-2129-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-CV-7434	TCGA-CV-7434-10A	Blood Derived Normal
+0f719260-ef2e-4064-954a-aaef1eaf612a	C500.TCGA-BL-A0C8-10A-01D-A271-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-BL-A0C8	TCGA-BL-A0C8-10A	Blood Derived Normal
+8d846ab3-7ec0-41eb-a5e4-a9328d4a9ef5	C239.TCGA-61-2000-01A-01W-0722-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-OV	TCGA-61-2000	TCGA-61-2000-01A	Primary Tumor
+972c3b5d-ba40-4318-8714-b548518ae20a	865b4c6407929aad3c34cc9171f497d9_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-IG-A3I8	TCGA-IG-A3I8-11A	Solid Tissue Normal
+c80813f9-9ffe-4bf1-bfb6-5ae124648e58	d756c5eb3ddfe18a08db928a5f200660_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-L5-A4OH	TCGA-L5-A4OH-11A	Solid Tissue Normal
+ea0c78db-c6cb-4830-9b7d-3e5ee2f07719	TCGA-56-1622-01A-01W-0782-08_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUSC	TCGA-56-1622	TCGA-56-1622-01A	Primary Tumor
+e5f2fda3-0201-41b9-9c70-d2a4028ca55d	C440.TCGA-BR-6458-01A-11D-1800-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-BR-6458	TCGA-BR-6458-01A	Primary Tumor
+65cae87f-431c-4b34-b5c4-a153510037fa	C440.TCGA-CG-4444-10A-01D-1158-08.8_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-4444	TCGA-CG-4444-10A	Blood Derived Normal
+883c3049-db56-4698-bf07-281e6891b926	TCGA-A7-A13D-01A-13D-A12Q-09_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-A7-A13D	TCGA-A7-A13D-01A	Primary Tumor
+666d08fc-63f8-43ab-a133-d9179f9f26f6	C440.TCGA-CG-5727-01A-11D-1600-08.6_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-5727	TCGA-CG-5727-01A	Primary Tumor
+65471c3a-df0a-4c0c-825e-dbc050c816c0	C495.TCGA-CV-6441-01A-11D-1683-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-CV-6441	TCGA-CV-6441-01A	Primary Tumor
+a7071923-cad5-4ea1-914a-03b69743f05c	C484.TCGA-06-0152-02A-01D-2280-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-06-0152	TCGA-06-0152-02A	Recurrent Tumor
+f3b7a4fc-c2ec-47e7-ab8b-c8969c0642fd	TCGA-66-2756-11A-01W-0877-08_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUSC	TCGA-66-2756	TCGA-66-2756-11A	Solid Tissue Normal
+84486acd-4687-4867-a45a-4397376be3db	TCGA-60-2711-01A-01W-0877-08_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUSC	TCGA-60-2711	TCGA-60-2711-01A	Primary Tumor
+857adb80-68e0-4d62-b4fb-791e8f255f90	8d5d3a4541b27a2f1deaf2f2ee023709_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A3U5	TCGA-DX-A3U5-10A	Blood Derived Normal
+e859d6d5-91be-41ed-93c9-5ea592568630	C828.TCGA-D3-A3C3-06A-12D-A19A-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A3C3	TCGA-D3-A3C3-06A	Metastatic
+43d64afe-9191-4320-bcbb-8287f516ced3	b5ce66b0976a0112af10f1b8586d113f_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-WP-A9GB	TCGA-WP-A9GB-10A	Blood Derived Normal
+75c35542-b3c2-449a-bf50-d410a1a552af	C484.TCGA-19-5960-01A-11D-1696-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-19-5960	TCGA-19-5960-01A	Primary Tumor
+b055298a-7f1c-4a42-be81-37e49c1ae3a5	8cceef369fbd16dda0a975bcc5b8735d_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-IG-A97I	TCGA-IG-A97I-01A	Primary Tumor
+3b89a3ed-3d19-4b57-bbb5-23e3f1ed7b28	41ecf2b11a9bf5f592ab6bdf25d17834_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-ESCA	TCGA-IG-A3I8	TCGA-IG-A3I8-10A	Blood Derived Normal
+62dd6ed4-7db3-4875-8b58-12a0bed04d38	f3c2c8c44c175b8199a10a51ce0941b1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A2J4	TCGA-DX-A2J4-10A	Blood Derived Normal
+b173b7f9-b815-4761-b90a-1053b506fb9c	TCGA-B6-A0RG-01A-11W-A071-09_HOLD_QC_PENDING_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-B6-A0RG	TCGA-B6-A0RG-01A	Primary Tumor
+a290dc3a-2625-454f-8648-1c758d5f9070	29476d1145b92f3a4c65b29b84658141_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UCEC	TCGA-EY-A1GC	TCGA-EY-A1GC-10A	Blood Derived Normal
+864ac1aa-fc4b-4bb6-be2c-22c991652bef	C500.TCGA-DK-A3X2-10A-01D-A22Z-08.7_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-DK-A3X2	TCGA-DK-A3X2-10A	Blood Derived Normal
+6d90acee-1d73-409b-9470-1a4d1fbaacf8	C500.TCGA-FD-A3N6-01A-11D-A21A-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-FD-A3N6	TCGA-FD-A3N6-01A	Primary Tumor
+5abb7374-ace9-4ed8-84e9-e185c1812aa6	C500.TCGA-GC-A3RD-10B-01D-A22Z-08.7_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-GC-A3RD	TCGA-GC-A3RD-10B	Blood Derived Normal
+251ab381-8ce1-4003-bcc5-9a446514caac	C500.TCGA-DK-A3IM-01A-11D-A20D-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-DK-A3IM	TCGA-DK-A3IM-01A	Primary Tumor
+ad4fa510-cfe6-44f7-b82a-1683cf5c0ac0	TCGA-AN-A0XR-01A-11D-A10G-09_IlluminaGA-DNASeq_exome_1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-AN-A0XR	TCGA-AN-A0XR-01A	Primary Tumor
+48d49a3c-5333-4f25-9891-0c378f1d24da	0e12bd76a94493ca54fb793b6fbefb0e_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-C8-A130	TCGA-C8-A130-10A	Blood Derived Normal
+893803a5-dbb1-4a2f-bf42-e824e71e70f6	TCGA-A7-A13D-10A-02D-A12Q-09_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-A7-A13D	TCGA-A7-A13D-10A	Blood Derived Normal
+247d130c-634e-4ff4-b081-5786be1896cf	TCGA-BH-A0HX-01A-21W-A071-09_HOLD_QC_PENDING_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-BH-A0HX	TCGA-BH-A0HX-01A	Primary Tumor
+d361d6a3-70b6-4941-a3e5-6973640999e0	TCGA-BH-A0HB-01A-11W-A071-09_HOLD_QC_PENDING_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-BH-A0HB	TCGA-BH-A0HB-01A	Primary Tumor
+b3201195-8d39-4a77-9f77-00f0fba3f1f7	TCGA-E2-A14X-10A-01D-A110-09_IlluminaGA-DNASeq_exome_1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-E2-A14X	TCGA-E2-A14X-10A	Blood Derived Normal
+a29b8ce7-f45b-4f42-83e8-b66db6a3825b	C440.TCGA-CG-5734-01A-11D-1600-08.6_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-5734	TCGA-CG-5734-01A	Primary Tumor
+aa3bbf51-3e6d-401a-915c-f8b51354f7ea	C347.TCGA-60-2713-01A-01W-0877-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUSC	TCGA-60-2713	TCGA-60-2713-01A	Primary Tumor
+9c2c307f-8168-444a-a5cb-e5eccbdef001	C508.TCGA-56-1622-11A-01D-1521-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUSC	TCGA-56-1622	TCGA-56-1622-11A	Solid Tissue Normal
+e9c6dc8b-336a-47e9-8c3d-a555213fed6e	C828.TCGA-D3-A2JC-10A-01D-A19A-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A2JC	TCGA-D3-A2JC-10A	Blood Derived Normal
+7819a283-6715-465f-8bc5-9f113e8d47ef	C828.TCGA-EE-A29V-10A-01D-A199-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29V	TCGA-EE-A29V-10A	Blood Derived Normal
+2387ff4d-e269-4b3c-8f73-b471ca388225	C440.TCGA-BR-4357-11A-01D-1158-08.8_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-BR-4357	TCGA-BR-4357-11A	Solid Tissue Normal
+8e0f5fae-a90c-4236-af6c-f993105db86e	C484.TCGA-06-0157-01A-01D-1491-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-06-0157	TCGA-06-0157-01A	Primary Tumor
+7dfdde7c-ffc8-43e1-a9fb-f76762cca5a3	C484.TCGA-06-0152-01A-02D-1492-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-06-0152	TCGA-06-0152-01A	Primary Tumor
+69238bd9-dd09-49a6-9d90-c3bb89385516	C484.TCGA-06-0686-10A-01D-1492-08.4_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-06-0686	TCGA-06-0686-10A	Blood Derived Normal
+f6a7dd5e-835c-4332-bd26-16f120e39112	C500.TCGA-DK-A1A3-10A-01D-A13W-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-DK-A1A3	TCGA-DK-A1A3-10A	Blood Derived Normal
+ae39a0af-4bd1-4e95-9996-a563a6f232d5	C239.TCGA-25-2400-01A-01W-0799-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-OV	TCGA-25-2400	TCGA-25-2400-01A	Primary Tumor
+07218202-2cd3-4db1-93e7-071879e36f27	C347.TCGA-43-3394-10A-01D-0983-08.17_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUSC	TCGA-43-3394	TCGA-43-3394-10A	Blood Derived Normal
+c13d55c8-2e0f-4a94-b43b-cbd5c23a1442	c622a3b68567452c3a59c9f2216781d6_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-CESC	TCGA-IR-A3LA	TCGA-IR-A3LA-10A	Blood Derived Normal
+0abe821f-5330-4754-a606-1174a54b6396	C495.TCGA-BA-4076-01A-01D-1434-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-HNSC	TCGA-BA-4076	TCGA-BA-4076-01A	Primary Tumor
+11b06cb5-a045-4b0f-9379-2f4620d85e2f	C484.TCGA-19-5960-10A-01D-1696-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-GBM	TCGA-19-5960	TCGA-19-5960-10A	Blood Derived Normal
+64f73d54-bfb4-43d0-b131-803b80d654d1	5e11a9acc54deac0fd59e4e5b14bb0cb_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-A7-A13D	TCGA-A7-A13D-01A	Primary Tumor
+efff1ee0-20af-49cd-bdaf-61f069bb94ee	C828.TCGA-ER-A197-06A-32D-A197-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A197	TCGA-ER-A197-06A	Metastatic
+d777f806-fbc4-4ba6-a3e0-c5678bc11f02	C828.TCGA-ER-A19L-10A-01D-A199-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19L	TCGA-ER-A19L-10A	Blood Derived Normal
+f1d6237e-2945-4d2f-b327-448ba8c61b20	C347.TCGA-43-3394-01A-01D-0983-08.17_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUSC	TCGA-43-3394	TCGA-43-3394-01A	Primary Tumor
+a72cb025-2ece-4ec0-a410-92b51ea6be57	TCGA-A6-5656-01A-21D-1835-10_hg19_Illumina_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-COAD	TCGA-A6-5656	TCGA-A6-5656-01A	Primary Tumor
+f62e192f-5289-4551-b5fe-cc1ceadb4fd1	C509.TCGA-50-6597-10A-01D-1855-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUAD	TCGA-50-6597	TCGA-50-6597-10A	Blood Derived Normal
+c0745fcf-18aa-4f43-96c5-1734e0716840	C347.TCGA-38-4629-01A-02D-1265-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUAD	TCGA-38-4629	TCGA-38-4629-01A	Primary Tumor
+0f404dfb-d04d-49f5-994b-f7bf419edca6	C509.TCGA-91-6840-01A-11D-1945-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUAD	TCGA-91-6840	TCGA-91-6840-01A	Primary Tumor
+04f177eb-5511-4077-a247-2f40ccc48855	C828.TCGA-ER-A19T-06A-11D-A19A-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19T	TCGA-ER-A19T-06A	Metastatic
+4dbdc181-d1b8-48b8-a1e9-e49470f5bb19	C828.TCGA-D3-A2J6-10A-01D-A19A-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A2J6	TCGA-D3-A2J6-10A	Blood Derived Normal
+67658703-889e-42b4-8829-500819491231	C508.TCGA-22-5477-11A-11D-1632-08.1_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LUSC	TCGA-22-5477	TCGA-22-5477-11A	Solid Tissue Normal
+1141666a-34ca-4326-82ba-2fd38eae2450	TCGA-A6-3810-01A-01D-A270-10_Illumina_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-COAD	TCGA-A6-3810	TCGA-A6-3810-01A	Primary Tumor
+d9733444-4c49-44bb-8374-48120f2a7dd1	TCGA-A6-3810-11A-01W-0995-10_hg19_Illumina_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-COAD	TCGA-A6-3810	TCGA-A6-3810-11A	Solid Tissue Normal
+30b60c5f-a218-4285-b04b-6bbd4dc02809	3bd41d9c92eaa57124bb22cd3ec5ace9_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-X2-A95T	TCGA-X2-A95T-01A	Primary Tumor
+07faafc8-f762-44e3-b549-4918b3ea48ec	C494.TCGA-DU-7010-10A-01D-2024-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LGG	TCGA-DU-7010	TCGA-DU-7010-10A	Blood Derived Normal
+3e251c8b-51bf-472e-9b25-bef3d278370a	C494.TCGA-DU-6403-01A-11D-1705-08.5_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-LGG	TCGA-DU-6403	TCGA-DU-6403-01A	Primary Tumor
+3b7dbab2-0cb4-413a-9615-40296522dc90	C828.TCGA-FS-A1ZE-06A-11D-A197-08.2_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZE	TCGA-FS-A1ZE-06A	Metastatic
+49f70090-2b19-46a4-9ea8-4aa1b46009ba	C828.TCGA-ER-A19L-06A-12D-A197-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19L	TCGA-ER-A19L-06A	Metastatic
+0496553c-c68b-42a5-8a54-29f20b8f7c44	C440.TCGA-BR-4183-01A-02D-1126-08.3_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-BR-4183	TCGA-BR-4183-01A	Primary Tumor
+19b20911-a921-48f8-8258-6d50845c19a4	C440.TCGA-CG-4300-10A-01D-1158-08.8_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-4300	TCGA-CG-4300-10A	Blood Derived Normal
+40c966ed-3ee6-4b71-bd82-b0659362feba	93f642575bd3fec0a43823cd37a86cb6_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SARC	TCGA-DX-A240	TCGA-DX-A240-10A	Blood Derived Normal
+d1203f9f-6c06-4f14-80e2-301c572752b8	TCGA-D1-A169-10A-01D-A12J-09_IlluminaGA-DNASeq_exome_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UCEC	TCGA-D1-A169	TCGA-D1-A169-10A	Blood Derived Normal
+5d14bb4d-5925-4a9e-8bcf-fd1e40be3abc	e52c300fcc024e8d3a3b64ad3ab79eb8_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UCEC	TCGA-AX-A2H5	TCGA-AX-A2H5-01A	Primary Tumor
+34ad2864-9826-4a3a-acd4-bfc4baecf29c	82b8b3339d469c8c5aee20df80ef26ad_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BRCA	TCGA-E2-A1LG	TCGA-E2-A1LG-01A	Primary Tumor
+44a65d9d-0069-4a18-b684-e7aa1344e38f	C440.TCGA-CG-5725-11A-01D-1600-08.9_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-STAD	TCGA-CG-5725	TCGA-CG-5725-11A	Solid Tissue Normal
+383e7aa9-9ac1-4d4b-aed7-ce2f3a8e22b0	C500.TCGA-BT-A20V-01A-11D-A14W-08.4_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-BLCA	TCGA-BT-A20V	TCGA-BT-A20V-01A	Primary Tumor
